@@ -1,0 +1,126 @@
+body {
+    max-width: 70%;
+    margin: auto;
+}
+.general-title,
+h2 {
+    font-size: 30px;
+    color: violet;
+}
+#title-two {
+    font-size: 40px;
+    color: rgb(9, 70, 105);
+}
+.click-top {
+    font-size: 30px;
+}
+.red {
+    color: red;
+}
+span.red {
+    color: gold;
+}
+span {
+    color: green;
+}
+h1 > span.red {
+    color: red;
+}
+#title-five {
+    color: turquoise;
+}
+.blue,
+.yellow {
+    color: blue;
+}
+p {
+    color: sienna;
+}
+.section-one ~ p {
+    color: teal;
+}
+div p.text-six {
+    color: springgreen;
+}
+p.text-six {
+    color: wheat;
+}
+* a {
+    color: blue;
+}
+p a {
+    color: red;
+}
+/* p.text-one,
+.text-four,
+.text-five,
+.text-two,
+.text-three {
+    color: rgb(9, 70, 105);
+} */
+* p {
+    color: rgb(9, 70, 105);
+}
+.text-one {
+    color: royalblue;
+}
+div > p.text-one {
+    color: royalblue;
+}
+h1 span.yellow {
+    color: yellow;
+}
+.section-four > p {
+    color: darkorange;
+}
+div.section-three p {
+    color: gold;
+}
+.section-one {
+    color: purple;
+}
+div.section-one li {
+    color: hotpink;
+}
+li span {
+    color: wheat;
+}
+
+.lato-black {
+    font-family: "Lato";
+    font-weight: 900;
+}
+.lato-regular {
+    font-family: "Lato";
+    font-weight: 400;
+}
+.lato-bold {
+    font-family: "Lato";
+    font-weight: 700;
+}
+.rob-regular {
+    font-weight: 400;
+}
+
+.bold {
+    font-weight: 700;
+}
+.black {
+    font-weight: 900;
+}
+
+.section-one {
+    font-family: "Roboto";
+}
+.larsseit {
+    font-family: "Larsseit";
+}
+.larsseit-regular {
+    font-weight: 400;
+}
+.larsseit-medium {
+    font-weight: 500;
+}
+.larsseit-bold {
+    font-weight: 700;
+}
